@@ -1,6 +1,6 @@
-li.voice-state:not([data-reactid*="DISCORD USER'S ID"]) { display:none; }
+li.voice-state:not([data-reactid*="844082532151590933"]) { display:none; }
 .avatar {
-content:url(DISCORD URL IMAGE LINK FOR IDLE PNG/GIF);
+content:url(958911588994285569);
 height:auto !important;
 width:auto !important;
 border-radius:0% !important;
@@ -14,7 +14,7 @@ animation-name: speak-now;
 animation-duration: 1s;
 animation-fill-mode:forwards;
 filter: brightness(100%);
-content:url(DISCORD URL IMAGE LINK FOR TALKING PNG/GIF);
+content:url(958911599916240987);
 }
 
 @keyframes speak-now {
